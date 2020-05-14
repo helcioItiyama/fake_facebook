@@ -4,7 +4,7 @@
 This project was developed during GoStack course using static ReactJS.
 
 <p align="center">
-    <img alt ="homepage" src="https://github.com/helcioItiyama/fake_facebook/blob/master/src/assets/face.png"/>
+    <img alt ="homepage" src="https://github.com/helcioItiyama/fake_facebook/blob/master/src/assets/facebook.png"/>
 </p>
 
 
