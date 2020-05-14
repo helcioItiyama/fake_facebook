@@ -1,0 +1,53 @@
+.card {
+  background: #ffffff;
+  width: 700px;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.133916);
+  margin: 24px auto;
+  box-sizing: border-box;
+  padding: 20px 20px 10px 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.comment {
+  display: flex;
+  align-items: center;
+}
+
+.comment img {
+  border-radius: 50%;
+  object-fit: cover;
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+
+.author-name {
+  height: 32px;
+}
+
+.author-name h2 {
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 16px;
+  color: #4a4a4a;
+  margin: 0;
+}
+
+.author-name small {
+  font-size: 11px;
+  line-height: 13px;
+  color: #9a9a9a;
+  margin: 0;
+}
+
+.card h3 {
+  font-size: 14px;
+  line-height: 22px;
+  color: #3e3e3e;
+  font-weight: normal;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eeeeee;
+}

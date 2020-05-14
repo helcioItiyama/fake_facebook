@@ -1,0 +1,24 @@
+.reply {
+  display: flex;
+  align-items: flex-start;
+}
+
+.reply img {
+  border-radius: 50%;
+  object-fit: cover;
+  width: 28px;
+  height: 28px;
+  margin-right: 10px;
+}
+
+p {
+  padding: 10px;
+  box-sizing: border-box;
+  background: #eeeeee;
+  border-radius: 20px;
+  color: #3e3e3e;
+  font-size: 13px;
+  line-height: 20px;
+  margin: 0;
+  margin-bottom: 10px;
+}

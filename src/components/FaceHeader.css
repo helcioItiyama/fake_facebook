@@ -1,0 +1,39 @@
+.header {
+  width: 100%;
+  max-width: 1024px;
+  margin: 0 auto;
+  height: 64px;
+  padding: 34px;
+  box-sizing: border-box;
+  background-color: #3b5998;
+  color: whitesmoke;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+img {
+  width: 121px;
+  height: 24px;
+  left: 42px;
+  top: 20px;
+}
+
+.profile {
+  width: 110px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+a {
+  color: #ffffff;
+  width: 79px;
+  height: 18px;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 18px;
+  text-decoration: none;
+  text-align: center;
+}
